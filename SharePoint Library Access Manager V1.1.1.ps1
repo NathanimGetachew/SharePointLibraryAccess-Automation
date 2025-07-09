@@ -45,11 +45,12 @@ HOW TO USE:
 
 1. SITE URL:
    - Enter the full URL of your SharePoint site
-   - Example: https://portal.ethiopianairlines.com/sites/ETCONF/
+   - Example: https://portal.CloudTechnologies.com/sites/conf/
+       #Put you site url
 
 2. USER LOGINS:
    - Enter one user per line in DOMAIN\user format
-   - Example: ET\NathanimG
+   - Example: ET\AdminTest
 
 3. PERMISSION LEVEL:
    - Select from the dropdown menu:
